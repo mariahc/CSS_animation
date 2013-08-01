@@ -1,6 +1,6 @@
 /*Internet Explorer 10, Firefox, and Opera supports the @keyframes rule and animation property. Chrome and Safari requires the prefix -webkit-. Note: Internet Explorer 9, and earlier versions, does not support the @keyframe rule or animation property.*/
 	
-	body {background-color:#e9e9e9;}	
+	body {background-color:#000000;}	
 	.wrapper {margin:2em;}
 	
 	.mol {
