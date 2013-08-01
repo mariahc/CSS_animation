@@ -3,7 +3,7 @@
 	body {background-color:#000000;}	
 	.wrapper {margin:2em;}
 	
-	.mol {
+	.heart {
 		width:200px;
 		height:200px;
 		background:transparent url('heart.png') top center no-repeat;
